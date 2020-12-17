@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d5ff1b-bd3e-4089-aaab-7e62f881acde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/src/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/SidebarChat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/SidebarChat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="ProjectId" id="1jEG934anl95FBGQEQlB12rLcUf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d5ff1b-bd3e-4089-aaab-7e62f881acde" name="Default Changelist" comment="" />
+      <created>1603361682415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603361682415</updated>
+      <workItem from="1603361683681" duration="377000" />
+      <workItem from="1603472434736" duration="52000" />
+      <workItem from="1603472507636" duration="11000" />
+      <workItem from="1603819337804" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="153" key="FileChooserDialogImpl" timestamp="1603819361425">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="175" y="153" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1603819361425" />
+  </component>
+</project>
